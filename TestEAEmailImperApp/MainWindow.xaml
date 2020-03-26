@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button x:Name="Authenticate" Content="Authenticate" HorizontalAlignment="Left" Margin="278.203,199.906,0,0" VerticalAlignment="Top" Width="227.542" Height="52.415" Click="Authenticate_Click"/>
+
     </Grid>
 </Window>
